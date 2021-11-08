@@ -6,8 +6,6 @@
 
  Ficheiros necessários para correr o programa
 
- Retirar pycache etc
-
 ## Submeter
  Pull request no repositório
 
