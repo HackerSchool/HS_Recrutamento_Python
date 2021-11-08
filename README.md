@@ -10,3 +10,5 @@
  Pull request no repositório
 
  Se tiver tudo ok eu vou aceitar e fica lá
+
+ Quem não conseguir mande me a pasta em ZIP por dm no discord ou whatsapp que eu meto lá!
