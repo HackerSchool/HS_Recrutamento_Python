@@ -3,9 +3,12 @@
 
 ## Estrutura
  Pasta com PrimeiroNome_ÚltimoNome
+
  Ficheiros necessários para correr o programa
+
  Retirar pycache etc
 
 ## Submeter
  Pull request no repositório
+
  Se tiver tudo ok eu vou aceitar e fica lá
