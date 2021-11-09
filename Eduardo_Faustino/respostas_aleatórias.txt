@@ -1,0 +1,9 @@
+F / tempo / O tempo está [1]
+P / tempo / chuva
+P / tempo / sol
+P / tempo / limpo
+P / tempo / nublado
+
+F / estado / Estou [1]
+P / estado / bem
+P / estado / aborrecido

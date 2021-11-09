@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "name": "diogo",
+            "salt": "b'lIfXA9GG5ymORr/blIYgwBcLWa7YAJlh+omcZNyTNQA='",
+            "key": "b'3cgUxklkjl0xgtsdaNO5abejwWC0/hjxcABmwn1mJ+w='"
+        },
+        {
+            "name": "beatriz",
+            "salt": "b'lLpkUqGykMxIolTOutrnD8bI2nc58GjlUWXxemtSr5Q='",
+            "key": "b'rzJ7diTZcH4Xl9vEPJXgUMjESsTnQvpldXu5yq/zoHs='"
+        },
+        {
+            "name": "bia",
+            "salt": "b'h4cTB1LUFxQCeYWpJoopHKyy0DfK94WiDY1Kp6CJd2s='",
+            "key": "b'vGNlw6WhqDs6fa+m3WgX2wqyUFomulqJd3MjRjuEO+Q='"
+        },
+        {
+            "name": "a",
+            "salt": "b'IVT9TPZDR3A94KWTVQQ7G+mnWCQQSj0kJf/jLnPwvvw='",
+            "key": "b'ldZzixMf4KVxjFyg6e+Veiqoga8PTD/siwKNXEWT6AU='"
+        },
+        {
+            "name": "admin",
+            "salt": "b'EIF+8L+j9vbe7DObY1ks0acP9BSjCkHA5xZ6ExVnDUE='",
+            "key": "b'NYKyxQh4dyNURHnYae4GIHbdosj+7y60MVKgaAyFEFY='"
+        },
+        {
+            "name": "ab",
+            "salt": "b'KflSJORDOSjel/L+wiWpQzT88WNlUjS80POQqwNpDLI='",
+            "key": "b'rjLJwUfulMTU/Ck2Twwer9KbY0MMp17jEyJLXjQdeVY='"
+        },
+        {
+            "name": "1",
+            "salt": "b'Z4yjmngYupGGslmIFwToIMdPpJdnDgFIxpDrlFZ/ggI='",
+            "key": "b'avtciyPcSsWghl0yYt+Vb7R+Aab9Q4rsfTfXrZMccaU='"
+        },
+        {
+            "name": "diogo santos",
+            "salt": "b'YjkBt4gF7jKu+ypL7vkLZOs0ox4abHys4GEfy9fOC/Q='",
+            "key": "b'sk7l3huUU4VULKa+0hS8J8+ul6Dy4Hg+FrqkXK2OGp4='"
+        },
+        {
+            "name": "teste",
+            "salt": "b'v4RSp5EYwnLpUsBpnVgVj3MUvPqlZh2MZxVoJoouvKE='",
+            "key": "b'B9pi8di6zixGmGqWT3zNSyK6avf8K10ZkI/eJtyU6DE='"
+        },
+        {
+            "name": "Diogo Santos",
+            "salt": "b'g5swcPBCmb696qXZVLcJ/PLqo7eyWjhcShDeyxAn0DI='",
+            "key": "b'O1fjyb+D3DLshn6+ToI53cXETUzOTg9Um3CrM2QAnS0='"
+        },
+        {
+            "name": "miguel",
+            "salt": "b'PZAP9SZCH0TRqBV5b1RXmiVa7znUhiFTc7dO74c2T6g='",
+            "key": "b'YPoRuksXaxu37TPjLsjcchAOW3MqS92qMC5FiAEyJNE='"
+        },
+        {
+            "name": "aaaa",
+            "salt": "b'4/yDhrmo3QkVpEnUMpNVwwJfy0520cu14hea1DIXjI8='",
+            "key": "b'9h/QkeEzt8PlSM75BcS3Nf25LHYMtxO7b03Mzoroq1g='"
+        }
+    ]
+}
